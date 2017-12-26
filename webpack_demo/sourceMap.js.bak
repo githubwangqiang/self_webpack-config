@@ -1,0 +1,9 @@
+module.exports={
+    devtool:'eval-source-map',
+    entry:__dirname+"/src/entery.js",
+    output:{
+        path:__dirname+"/dist/",
+        filename:'entry.js'
+
+    }
+}

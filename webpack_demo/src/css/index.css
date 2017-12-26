@@ -1,0 +1,13 @@
+body{
+    background-color:#fff;
+    color:#000;
+}
+#tupian{
+    background-image:url('../images/01.jpg');
+    width:466px;
+    height:453px;
+}
+#timi{
+    width: 500px;
+    height: 500px;border: 1px solid red;
+}
